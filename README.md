@@ -1,4 +1,4 @@
-# Showcase Swift CLI
+# Swift CLI Toolkit
 
 **Swift** command-line sample — iOS/macOS ecosystem, Apple platform roles.
 
